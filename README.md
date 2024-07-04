@@ -1,4 +1,4 @@
-# Quantium Data Analytics Project
+# <p align ="center">  Quantium Data Analytics Project
 
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-1.x-green.svg)](https://pandas.pydata.org/)
